@@ -559,11 +559,7 @@ h1 {
   opacity: 0;
   visibility: hidden;
 }
-@media (min-width: 769px) {
-  .button-section{
-    margin-left: 207px;
-  }
-}
+
 @media (min-width: 481px) and (max-width: 768px) {
 
   .wizard-container{
