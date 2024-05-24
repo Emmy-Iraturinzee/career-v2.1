@@ -563,6 +563,7 @@ h1 {
 
   .wizard-container{
     width: 125% !important;
+    margin-left: -52px;
   }
   #form-logo{
     margin-left: 250px !important;
