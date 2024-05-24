@@ -559,6 +559,15 @@ h1 {
   opacity: 0;
   visibility: hidden;
 }
+@media (min-width: 481px) and (max-width: 768px) {
+
+  .wizard-container{
+    width: 125% !important;
+  }
+  #form-logo{
+    margin-left: 250px !important;
+  }
+}
 @media only screen and (min-width: 64rem) {
   .banner-links {
     opacity: 1;
